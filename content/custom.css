@@ -1,0 +1,17 @@
+/*! @preserve
+ * Copyright (c) 2019 Aquafortis
+ * Licensed under MPL-2.0 (https://github.com/Aquafortis/lincoln-custom-chrome)
+ */
+.product-listing .column {
+    padding: 0.9375rem;
+    border: 1px solid #abc;
+}
+
+.orbit-container {
+    border: 1px solid #abc;
+}
+
+button.scroll {
+    height: 40px;
+    width: 40px;
+}
