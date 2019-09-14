@@ -3,13 +3,14 @@
  * Licensed under MPL-2.0 (https://github.com/Aquafortis/lincoln-custom)
  */
 html, body {
-    width: 300px;
-}
-
-.icon-section-header {
-    padding-left: 30px;
+    width: 330px;
 }
 
 .icon-section-header img {
     cursor: pointer;
+}
+
+.sitemap {
+    padding-left: 30px;
+    padding-right: 30px;
 }
